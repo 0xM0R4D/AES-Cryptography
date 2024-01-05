@@ -7,7 +7,7 @@ The repository contains the following three processes:
   - Key Generation  
 
 ## Usage 
-1. using your terminal, clone the project: `git clone https://.....` or click code tab, download zip file then extract it. 
+1. using your terminal, clone the project: `git clone https://github.com/0xM0R4D/AES-Cryptography.git` or click code tab, download zip file then extract it. 
 2. open the project folder using your editor. 
 3. enter your plaintext/ciphertext into plaintext.txt/ciphertxt.txt file for encryption/decryption. 
 4. run main.py file, enter your key then choose encryption/decryption option.
