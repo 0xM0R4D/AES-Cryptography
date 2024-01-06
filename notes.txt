@@ -27,7 +27,7 @@ GF func. // take 1Column from wordsListIn, 1row from mixColumnMatrix and return 
   gfRes = lWord[0]*cWord[0]+....+ lWord[3]*cWord[3]
   *in code:  "*" =>calling multiply2Elem_mixCol func.  and "+" is xoring
 
- # this function apply multiply operation using E & L tables method in mix columns, reference: 
+ # this function apply multiply operation using E & L tables method in mix columns, resource: https://9afi.com/storage/daftar/D0x8m3zjKte1cDrUQixsL0KQp6NET2Xe11RWZMnc.pdf 
 multiply2Elem_mixCol(elem1,elem2): // take 2 elements return 1 elem. ex: res = func("A4","BF")="CC"
    LTableRes1 = lookUpLTable(elem1)
    LTableRes2 = lookUpLTable(elem2)
